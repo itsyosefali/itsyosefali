@@ -1,11 +1,4 @@
 ### Hi there 👋
-name: Example
-uses: lowlighter/metrics@latest
-with:
-  filename: metrics.classic.svg
-  token: ${{ secrets.METRICS_TOKEN }}
-  base: header, repositories
-  plugin_lines: yes
 
 <!--
 **itsyosefali/itsyosefali** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
