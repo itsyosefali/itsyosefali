@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Yosef Ali</h1>
 <h3 align="center">A 20 years old passionate developer</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=itsyosefali-ma&theme=onedark)](https://github.com/itsyosefali/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
