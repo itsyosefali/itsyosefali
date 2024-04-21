@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://camo.githubusercontent.com/c0faa604223515b45c0a4003541e5b9e53be31dbfd5963a4f8dce7ae34ccd08c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3236746e333361695469316a6b6c3648362f67697068792e676966" alt="Online Coding" width="100%" height="auto">
+</p>
+
 <h1 align="center">Hi 👋, I'm Yousef Ali</h1>
 <h3 align="center">A passionate 21-developer from Libya</h3>
 
@@ -9,10 +13,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/jospehumf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jospehumf" height="30" width="40" /></a>
-<a href="https://fb.com/itsyosefali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itsyosefali" height="30" width="40" /></a>
-<a href="https://instagram.com/yosef_the_developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yosef_the_developer" height="30" width="40" /></a>
-<a href="https://discord.gg/mr.devyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mr.devyo" height="30" width="40" /></a>
+  <a href="https://twitter.com/jospehumf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jospehumf" height="30" width="40" /></a>
+  <a href="https://fb.com/itsyosefali" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="itsyosefali" height="30" width="40" /></a>
+  <a href="https://instagram.com/yosef_the_developer" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yosef_the_developer" height="30" width="40" /></a>
+  <a href="https://discord.gg/mr.devyo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="mr.devyo" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
