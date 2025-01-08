@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="https://camo.githubusercontent.com/c0faa604223515b45c0a4003541e5b9e53be31dbfd5963a4f8dce7ae34ccd08c/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f3236746e333361695469316a6b6c3648362f67697068792e676966" alt="Online Coding" width="100%" height="auto">
-</p>
+
 
 <h1 align="center">Hi 👋, I'm Yousef Ali</h1>
 <h3 align="center">A passionate 21-developer from Libya</h3>
