@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://emojis.slackmojis.com/emojis/images/1643514389/3649/cool-doge.gif?1643514389" width="30"/>
+  
   YO! I'm Yousef Ali
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30"/>
 </h1>
