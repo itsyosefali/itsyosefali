@@ -21,9 +21,16 @@
 
 ---
 
-### 🔥 Hot Streak
-[![GitHub Streak](https://streak-stats.demolab.com/?user=itsyosefali&theme=dark&fire=FFA726&currStreakNum=FFA726)](https://github.com/itsyosefali)
+### 🔥 Coding Activity
 
+#### 📊 Weekly Development Breakdown
+[![Yousef's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=itsyosefali&theme=dark&hide_border=true)](https://wakatime.com/@itsyosefali)
+
+#### 📈 Contribution Graph
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=itsyosefali&theme=github-compact&hide_border=true)](https://github.com/itsyosefali)
+
+#### 🛠️ Current Focus
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsyosefali&layout=compact&theme=vision-friendly-dark&hide_border=true)](https://github.com/itsyosefali)
 ---
 
 ### 🛠️ My Toolbox
