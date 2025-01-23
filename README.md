@@ -66,7 +66,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jospehumf)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yosef-ali-97b184216/)
 [![Discord](https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/itsyosefali)
-[![ERPNext Forum](https://img.shields.io/badge/-ERPNext_Forum-8CA1AF?style=for-the-badge&logo=git&logoColor=white)](https://discuss.frappe.io/u/itsyosefali)
+[![ERPNext Forum](https://img.shields.io/badge/-ERPNext_Forum-8CA1AF?style=for-the-badge&logo=git&logoColor=white)](https://discuss.frappe.io/u/yosef)
 
 ---
 
