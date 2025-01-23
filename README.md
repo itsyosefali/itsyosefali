@@ -22,7 +22,7 @@
 ---
 
 ### 🔥 Hot Streak
-[![GitHub Streak]([![GitHub Streak](https://streak-stats.demolab.com/?user=itsyosefali)](https://git.io/streak-stats))
+[![GitHub Streak](https://streak-stats.demolab.com/?user=itsyosefali&theme=dark&fire=FFA726&currStreakNum=FFA726)](https://github.com/itsyosefali)
 
 ---
 
