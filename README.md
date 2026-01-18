@@ -106,13 +106,21 @@ class YousefAli:
 
 ## 📊 GitHub Analytics
 
-<div align="center">
-  
-![Yousef's GitHub Stats](https://github-readme-stats.vercel.app/api?username=itsyosefali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&line_height=24)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=itsyosefali&layout=compact&theme=tokyonight&hide_border=true&langs_count=8)
-![GitHub Streak](https://streak-stats.demolab.com/?user=itsyosefali&theme=tokyonight&hide_border=true)
-
-</div>
+<table>
+  <tr>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=itsyosefali&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&line_height=24" alt="Yousef's GitHub Stats"/>
+    </td>
+    <td>
+      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsyosefali&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top Languages"/>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img height="180em" src="https://streak-stats.demolab.com/?user=itsyosefali&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+    </td>
+  </tr>
+</table>
 
 ---
 
